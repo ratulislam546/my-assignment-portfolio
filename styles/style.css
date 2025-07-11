@@ -1,0 +1,164 @@
+
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100; */
+}
+/* shared style
+.secondary-bg{
+
+}
+.text-primary{
+    color: #4E47FF;
+}
+.section title{
+    font-size: 35px;
+    font-weight: bold;
+    color: #252432;
+}
+.section-description{
+    font-size: 18px;
+    color: #252432;
+}
+
+.dark-2{
+    color: #474747;
+}
+
+/* Nav styles */
+nav{
+    display: flex;
+    
+}.nav-title{
+    font-weight: 800;
+    font-size: 45px;
+    
+}
+.nav-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+
+nav button {
+    background-color: #4F46E5;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+
+
+    
+nav ul li {
+    list-style: none;
+    display: flex;
+}
+
+nav li a{
+    text-decoration: none;
+    font-size: 50px;
+}
+/* header */
+.header {
+    background-image: url('../Assets/Hero-bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    padding-top: 100px;   /* top space */
+    padding-bottom: 120px; /* bottom space to include text + button */
+}
+
+
+
+/* Nav Styles */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.nav-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Reusable button style */
+.primary-btn {
+    background-color: #4F46E5;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+/* Banner area */
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 400px; /* You can adjust as needed */
+    background-color: #f9f9f9; /* Light background */
+}
+
+.banner-description {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.banner-content button {
+    font-size: 16px;
+
+}
+/* about styles */
+
+
+/* main styles */
+main{
+    max-width: 1140;
+    margin: 0 auto;
+}
+.about{
+    border-radius: 10px;
+
+}
+
+/* main styles */
+main{
+    max-width: 11400px;
+    margin: 0 auto;
+
+}
+/* about styles */
+.about{
+    border-radius: 10px;
+    padding: 130 150px;
+
+}
